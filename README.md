@@ -1,1 +1,1 @@
-# spring-boot-practice
+# boot-with-jpa
